@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06d62585.chunk.css",
+    "main.js": "/static/js/main.49ae2ac0.chunk.js",
+    "main.js.map": "/static/js/main.49ae2ac0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7ce8befb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7ce8befb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.45c5df6f.chunk.js": "/static/js/2.45c5df6f.chunk.js",
+    "static/js/2.45c5df6f.chunk.js.map": "/static/js/2.45c5df6f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.06d62585.chunk.css.map": "/static/css/main.06d62585.chunk.css.map",
+    "static/js/2.45c5df6f.chunk.js.LICENSE.txt": "/static/js/2.45c5df6f.chunk.js.LICENSE.txt",
+    "static/media/Component 719 – 5.95600975.svg": "/static/media/Component 719 – 5.95600975.svg",
+    "static/media/Group 21662.ddf6fe54.svg": "/static/media/Group 21662.ddf6fe54.svg",
+    "static/media/Group 21705.3150589a.svg": "/static/media/Group 21705.3150589a.svg",
+    "static/media/chevron-left.c80cdd8e.svg": "/static/media/chevron-left.c80cdd8e.svg",
+    "static/media/chevron-right.61c607bb.svg": "/static/media/chevron-right.61c607bb.svg",
+    "static/media/sendMessage.683dad8f.svg": "/static/media/sendMessage.683dad8f.svg",
+    "static/media/myChats.css": "/static/media/share.3150589a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce8befb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.45c5df6f.chunk.js",
+    "static/css/main.06d62585.chunk.css",
+    "static/js/main.49ae2ac0.chunk.js"
+  ]
+}
